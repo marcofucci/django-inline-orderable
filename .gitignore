@@ -1,1 +1,3 @@
 *.pyc
+dist/
+django_inline_orderable.egg-info/
