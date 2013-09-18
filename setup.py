@@ -9,7 +9,6 @@ setup(
     author_email='info@marcofucci.com',
     url='https://github.com/marcofucci/django-inline-orderable',
     description='An easy way of making inlines orderable using drag-and-drop.',
-    long_description=open('README.rst').read(),
     license='BSD',
     packages=find_packages(),
     provides=['inline_orderable',],
